@@ -1,80 +1,91 @@
+# 👻 Nightfall Runner — Web3 Survival Arena
+
+Nightfall Runner is a fast-paced survival experience where you dodge, weave, and outsmart waves of chaotic toy-like enemies inside a dark, stylized world.  
+Built using the power of Unity, the game blends smooth controls, clean visuals, and escalating difficulty with real-time on-chain tracking powered by Somnia.
+
+Every second of your run — your score, your survival time, and your wallet identity — is streamed automatically to the  
+:contentReference[oaicite:0]{index=0},  
+making your performance provably fair, tamper-proof, and transparently recorded on the  
+:contentReference[oaicite:1]{index=1}.
+
+This isn’t just gameplay.  
+This is **survival with on-chain accountability.**
+
+---
+
 ## 🌑 Features
 
 ### ⚔️ Fluid Survivor Combat
-Tight movement, satisfying hits, and reactive enemy behavior —  
-all running on a smooth, responsive environment powered by  
-:contentReference[oaicite:0]{index=0}.
+Smooth controls, crisp movement, and reactive enemy behavior brought to life using  
+:contentReference[oaicite:2]{index=2}.
 
-- Dodge-focused movement  
-- Randomized enemy waves  
-- Multiple creature types  
-- Smooth, intuitive controls  
-
----
-
-### ⏱️ Real-Time Playtime Tracking  
-**No claim buttons. No submissions.**  
-Every second you survive is automatically processed through  
-:contentReference[oaicite:1]{index=1}.
-
-This allows:
-- Seamless playtime recording  
-- Automatic score streaming  
-- Wallet-linked session history  
-- Difficulty scaling as the session progresses  
-
-Your full run becomes an immutable performance log — stored trustlessly.
+- Dodge-focused action  
+- Multiple enemy archetypes  
+- Randomized encounters  
+- Tight, responsive feel  
 
 ---
 
-### 🔗 Powered by Blockchain Transparency  
-Integrated directly with the  
-:contentReference[oaicite:2]{index=2} ecosystem,  
-your gameplay data benefits from:
+### ⏱️ Real-Time Playtime Tracking
+Your entire session is streamed live through  
+:contentReference[oaicite:3]{index=3} — completely automatic.
+
+- Survival time logged in real time  
+- Score synced instantly  
+- Wallet-linked session identity  
+- Difficulty increases as you survive longer  
+
+Your run becomes an immutable record stored trustlessly on the chain.
+
+---
+
+### 🔗 Blockchain-Backed Transparency
+By integrating directly with the  
+:contentReference[oaicite:4]{index=4},  
+every performance benefits from:
 
 - On-chain validation  
 - Anti-cheat verification  
 - Tamper-proof score tracking  
-- Trustless leaderboard ranking  
+- Trustless ranking logic  
 
-No centralized moderation.  
-No hidden adjustments.  
-Your performance is exactly what the chain records.
+No centralized edits.  
+No manual submissions.  
+Only provable gameplay.
 
 ---
 
-### 🏆 On-Chain Global Leaderboard  
-Compete across the world with a leaderboard that updates the moment your run ends.
+### 🏆 On-Chain Global Leaderboard
+Compete worldwide with a leaderboard that updates the moment your run ends.
 
-- Ranks based on survival skill  
-- Shows score + playtime  
-- Wallet-based identity without revealing full address  
+- Ranks players by survival skill  
+- Displays score + playtime  
+- Shortened wallet display for safety  
 - Real-time updates powered by  
-  :contentReference[oaicite:3]{index=3}  
+  :contentReference[oaicite:5]{index=5}  
 
-Blockchain ensures fairness —  
-every ranking is permanent, verifiable, and impossible to manipulate.
+Every leaderboard position is permanent and verifiable.
 
 ---
 
-### 🧬 Dynamic Difficulty Curve  
-As your playtime increases, so does the challenge:
+### 🧬 Dynamic Difficulty Scaling
+As the minutes tick by, the world becomes more hostile:
 
 - Faster enemies  
-- New enemy variants  
-- Projectile-based units  
+- New enemy types  
+- Projectile attackers  
 - Random power-ups  
 
-Every minute survived pushes you into deeper chaos.
+Every run feels fresh — every minute pushes you harder.
 
 ---
 
-### 🌐 WebGL-Ready Experience  
-Playable instantly in the browser with:
+### 🌐 WebGL-Ready Experience
+Playable instantly inside your browser.
 
 - Wallet auto-detection  
 - Smooth WebGL performance  
-- Full compatibility with the  
-  :contentReference[oaicite:4]{index=4} ecosystem  
+- Full support for the  
+  :contentReference[oaicite:6]{index=6} ecosystem  
 
-Just press play — your entire session becomes part of your on-chain journey.
+Just click Play — your entire journey becomes part of your on-chain legacy.
