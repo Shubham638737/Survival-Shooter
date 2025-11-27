@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Blockchain/Scenes/WalletConnection 1.unity
+    guid: 4dd27fe86dccb184e97f228bca8a3fdf
+  - enabled: 1
+    path: Assets/Scenes/Level_01.unity
+    guid: 35c41bbb57e315c408bfec19d17264df
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
